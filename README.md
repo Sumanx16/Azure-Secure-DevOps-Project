@@ -45,21 +45,8 @@ The following tasks were implemented in the Azure DevOps environment:
 
 ## 📸 Screenshots
 
-> Add screenshots of the following:
-- User group & permissions
-- Branch policy configuration
-- Pull request with approval flow
-- Pipeline triggers and gates
-- Work item linkage to PR
-
-```bash
-📂 assets/
-├── group-policy-screenshot.png
-├── branch-policy.png
-├── pr-flow.png
-├── pipeline-gate.png
-├── work-items.png
-```
+### 🔹 Home Dashboard
+![Home](./assets/home.png)
 
 ## 🌐 Live Demo
 You can view a live simulation/mockup of this project here:
