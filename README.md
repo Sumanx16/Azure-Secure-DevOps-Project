@@ -46,7 +46,7 @@ The following tasks were implemented in the Azure DevOps environment:
 ## 📸 Screenshots
 
 ### 🔹 Home Dashboard
-![Home](./assets/home.png)
+![Home](./home.png)
 
 ## 🌐 Live Demo
 You can view a live simulation/mockup of this project here:
