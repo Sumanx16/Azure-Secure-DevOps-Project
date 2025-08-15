@@ -1,4 +1,4 @@
-# 🔐 Azure DevOps Project: SecureDevOps Project
+
 
 This repository contains the configuration and documentation for the **SecureDevOpsProject**, developed as part of an Azure DevOps internship assignment. The goal was to implement **group policies, branch security, CI/CD pipelines, and pull request workflows** with proper role-based access control and automation.
 
